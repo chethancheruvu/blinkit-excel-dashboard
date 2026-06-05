@@ -7,5 +7,10 @@ This project analyzes BlinkIT grocery sales data and presents key business insig
 # Dataset
 - <a href="https://github.com/chethancheruvu/blinkit-excel-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">dataset<a/>
 
-
+# QUESTION(KPI)
+-What is the objective of this BlinkIT dashboard?
+-Why did you choose this dataset?
+-What tools did you use to create the dashboard?
+-How many records and columns are in the dataset?
+-What business problem does this dashboard solve?
 
