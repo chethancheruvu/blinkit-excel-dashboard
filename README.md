@@ -14,3 +14,9 @@ This project analyzes BlinkIT grocery sales data and presents key business insig
 -How many records and columns are in the dataset?
 -What business problem does this dashboard solve?
 
+
+# Process
+ -BlinkIT Grocery Sales Dashboard built using Microsoft Excel to analyze sales performance and customer trends.
+ -Features interactive KPIs, Pivot Tables, Pivot Charts, and Slicers for dynamic reporting.
+ -Provides insights into outlet performance, product categories, sales distribution, and customer ratings.
+ -Designed to support data-driven decision-making through clear and interactive visualizations.
